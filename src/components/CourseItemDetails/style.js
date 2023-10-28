@@ -73,3 +73,4 @@ export const Vh = styled.h1`
   font-family: 'Roboto';
   margin-bottom: 7px;
 `
+export default Nel

@@ -16,3 +16,5 @@ export const Cn = styled.p`
   font-size: 18px;
   font-family: 'Roboto';
 `
+
+export default Li

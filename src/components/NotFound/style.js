@@ -35,3 +35,5 @@ export const Nop = styled.p`
   font-size: 16px;
   font-family: 'Roboto';
 `
+
+export default NoCon
